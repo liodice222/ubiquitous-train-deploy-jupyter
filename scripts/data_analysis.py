@@ -1,10 +1,10 @@
 from config import connection
 
-# Create a cursor
+# Create a cursor to execute sql and fetch data from ADW
 cursor = connection.cursor()
 
 # Execute a query
-query = "SELECT * FROM your_table_name"
+query = "SELECT * FROM table"
 cursor.execute(query)
 
 # Fetch the results
