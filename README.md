@@ -1,2 +1,3 @@
 # ubiquitous-train-deploy-jupyter
-deploy jupyter notebook analystics via oracle functions, connected to object storage
+deploy jupyter notebook analytics with oci notebooks, connected to ADW where clean data is stored 
+
